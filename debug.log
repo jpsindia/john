@@ -1,0 +1,7 @@
+[0902/132855.068:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[1011/141808.527:ERROR:file_io.cc(135)] WriteFile: The pipe is being closed. (0xE8)
+[1024/131756.929:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1028/193413.565:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[1028/193413.799:ERROR:exception_snapshot_win.cc(99)] thread ID 4248 not found in process
+[1118/112210.265:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1205/152208.002:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
